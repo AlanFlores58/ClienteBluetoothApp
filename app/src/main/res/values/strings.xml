@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ClienteBluetoothApp</string>
+    <string name="UUID">6049a354-3df0-11e3-8e7a-ce3f5508acd9</string>
+    <string name="action_settings">Actualizar</string>
+</resources>
